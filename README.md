@@ -1,4 +1,4 @@
-Welcome to the Taxonomics Engine manual.
+Welcome to the [Taxonomics Engine manual](https://taxonomics.github.io/engine/).
 
 The Taxonomics Engine gives you the tools you need to radically realign your business (and, specifically, its website) to the needs of your marketplace.
 
