@@ -5,7 +5,9 @@ Welcome to the Taxonomics Engine manual.
 The Taxonomics Engine gives you the tools you need to radically realign your business (and, specifically, its website) to the needs of your marketplace.
 
 ## LOG IN
-Logging in is simple - just type in the user name and password you have been provided with. If you have forgotten it, email info@taxonomics.co.uk, or give us a call on +44 (0)330 223 1164. Once you have logged in to the system with your username and password, you are presented with the menu screen. It will offer one or more of the following (depending on the status of your taxonomics programme): Competition Universe; Market Taxonomy; Performance Landscape; Demand Architexture; Search Integration.
+Logging in is simple - just type in the user name and password you have been provided with. If you have forgotten it, email info@taxonomics.co.uk, or give us a call on +44 (0)330 223 1164. 
+
+Once you have logged in to the system with your username and password, you are presented with the menu screen. It will offer one or more of the following (depending on the status of your taxonomics programme): Competition Universe; Market Taxonomy; Performance Landscape; Demand Architexture; Search Integration.
 
 ## COMPETITION UNIVERSE
 *See how you sit in a whole universe of micro-competitions.*
