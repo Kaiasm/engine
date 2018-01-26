@@ -7,6 +7,20 @@ Logging in is simple - just type in the user name and password you have been pro
 Once you have logged in to the system with your username and password, you are presented with the menu screen. It will offer one or more of the following (depending on the status of your taxonomics programme): Competition Universe; Market Taxonomy; Performance Landscape; Demand Architexture; Search Integration.
 
 # Basic Interactions
+Interactions are similar to Google Maps.
+
+ - **Zoom in and out** with the mouse wheel, or pinch on a tablet. If a circle is not labelled, simply zoom in on it. The label will appear once the circle gets big enough.
+ - **Pan** by dragging.
+ - **Select** by clicking. This will expand that cluster into a detailed taxonomy.
+ - **Search** by clicking the search input at the bottom right hand corner of the screen.
+ - **Change to a different main section** by clicking the menu icon (three horizontal lines) at the top left corner of the screen.
+ - **Change to and from a grid layout** using the grid icon at the upper left corner of the screen, below the menu icon.
+ - **Change View Settings** using the icons at the top right corner of the screen.
+  + **Cog icon** gets you a view filters panel. This is (at the moment) also where you can download and SVG of the current view.
+  + **Alphabetic order icon** (an A-Z beside a downward pointing arrow) if present, re-orders the grid layout alphabetically.
+  + **Quantity order icon** (four horizontal bars, left aligned, of decreasing size, together witha downward pointing arrow) if present, re-orders the grid layout by value, largest first.
+
+As you zoom, the navigation panel will appear at the bottom right of the screen. A blue box shows where you have zoomed to within the overall view.
 
 # Competition Universe
 *See how you sit in a whole universe of micro-competitions.*
