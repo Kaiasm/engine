@@ -15,14 +15,14 @@ Interactions are similar to Google Maps.
  - **Search** by clicking the search input at the bottom right hand corner of the screen.
  - **Change to a different main section** by clicking the menu icon (three horizontal lines) at the top left corner of the screen.
  - **Change to and from a grid layout** using the grid icon at the upper left corner of the screen, below the menu icon.
- - **Change View Settings** using the icons at the top right corner of the screen.
+ - **Change view settings** using the icons at the top right corner of the screen.
   + **Cog icon** gets you a view filters panel. This is (at the moment) also where you can download and SVG of the current view.
   + **Alphabetic order icon** (an A-Z beside a downward pointing arrow) if present, re-orders the grid layout alphabetically.
   + **Quantity order icon** (four horizontal bars, left aligned, of decreasing size, together witha downward pointing arrow) if present, re-orders the grid layout by value, largest first.
 
 As you zoom, the navigation panel will appear at the bottom right of the screen. A blue box shows where you have zoomed to within the overall view.
 
-# Competition Universe
+# The Competition Universe
 *See how you sit in a whole universe of micro-competitions.*
 
 ## Reading the universe map
@@ -37,7 +37,7 @@ If the data is present in the system, you may see one or more additional visual 
 Hovering over a planet with a mouse brings up its name in a tool tip. Clicking (or tapping, if using a tablet) makes the name stick in place, enabling you to then click the link to that domain, should you wish. To unstick the tooltip, click the 'X' icon in its top right corner.
 
 
-# Market Taxonomy
+# The Market Taxonomy
 *Explore what people want, in what number, and the words they use. It also allows you to decide what you want to do about that.*
 
 ## The Clusters
@@ -50,14 +50,14 @@ The first view you will see shows the first level of the taxonomic hierarchy so 
 ## The Detailed Taxon Report
 
 
-# Performance Landscape
+# The Performance Landscape
 *Tactical maps of where you are competing now, and where next.*
 
-# Demand Architecture
+# The Demand Architecture
 *Helps you to radically align your offering, and especially your category hierarchy and web information architecture, with the structure of the demand in the competitive universe in which you operate.*
 
-# SEARCH INTEGRATION
-*Supercharges your on-site search engine with deep taxonomic, ontologic and semantic goodness.*
+# Search Integration
+*Supercharge your on-site search engine with deep taxonomic, ontologic and semantic goodness.*
 
 ___
 [Edit](https://github.com/Taxonomics/engine/edit/master/README.md) | [Markdown](https://gist.github.com/jonschlinkert/5854601) | [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) | [GitHub Pages](https://help.github.com/categories/github-pages-basics/)
