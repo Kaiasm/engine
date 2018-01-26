@@ -47,21 +47,21 @@ Hovering over a planet with a mouse brings up its name in a tool tip. Clicking (
 ### Things to try 
  - **See more of the universe** by clicking on the cog icon at top right. Change it from 'top 100' to, say, top '1000'. You can type it in or move the slider. If you take the slider all the way to the right, it will show you all domains in your market universe. If you do that, you may need to go and make a cup of tea while it lays them out.
  - **Change how the universe is ordered** by clicking the cog icon and changing the value metric from the number of search visits (the default) to:
-  + **% contested visits**. This shows the competitors who are most like you in the market goals you are both meeting.
-  + **# contested visits**. This shows the competitors whith whom you are, in sheer numbers of people, competing with most fiercely. There are often surprises in here.   
+   + **% contested visits**. This shows the competitors who are most like you in the market goals you are both meeting.
+   + **# contested visits**. This shows the competitors whith whom you are, in sheer numbers of people, competing with most fiercely. There are often surprises in here.   
  - **See the universe as a grid** by clicking the grid icon at top left, just below the menu icon. Re-order the grid alphabetically or by value by clicking on the sort view icons at top left, near the cog icon. Click the grid again to return to the normal universe view.
 
 *Note: we are currently seeing some issues with ordering layout for large numbers of competitors in the non-grid view. Small domains are managing to squeeze between gaps left by larger, closer domains. This will be resolved in the next release. In the meantime, look at the grid view for confident ordering.*
-
-### 
+ 
 
 # The Market Taxonomy
 *Explore what people want, in what number, and the words they use. It also allows you to decide what you want to do about that.*
 
-## The Clusters
-The first view you will see shows the first level of the taxonomic hierarchy so far produced as circles. Thematic groups are shown by colour. Click on a circle to expand it into a detailed taxonomy
+## The Circles
+The first view you will see shows the first level of the taxonomic hierarchy so far produced as circles. Thematic groups are shown by colour. Click on a circle to expand it into a detailed taxonomy.
 
 ## A Detailed Taxonomy
+The detailed taxonomy view extends a line of blocks out from the 
 
 ## Taxon Triage
 
