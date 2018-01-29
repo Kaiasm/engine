@@ -98,7 +98,7 @@ Taxon triage is the name we give to the process of rapidly deciding which of the
 # The Performance Landscape
 *Tactical maps of where you are competing now, and where next.*
 
-The performance landscape shows all the demand goals identified so far, and their triage states. If a triage state of 'now' is set, and the demand goal is linked to a URL on your site such that it is deemed 'active', you can being to colour in your performance landscape. The more you fill each actively supported goal with the names people give the goal, the brighter it gets. Pale cells in the landscape are barely relevant, and need work! As time progresses, so will the landscape, growing gradually more complete.
+The performance landscape shows all the demand goals identified so far, and their triage states. If a triage state of 'now' is set, and the demand goal is linked to a URL on your site such that it is deemed 'active', you can begin to colour in your performance landscape. The more you fill each actively supported goal with the names people give the goal, the brighter it gets. Pale cells in the landscape are barely relevant, and need work! As time progresses, so will the landscape, growing gradually more complete.
 
 ### Things to try
  - click on a cell to bring up more information about it. If it is not yet linked to a page on your web site, the detailed report shows whether the names people give to their goals are used anywhere on your website. If it is linked to a page, it shows whether the names are used on that page. If we have performance data, it will also give clues as to possible improvements in the flow of people from impression to visit, visit to engagement, engagement to transaction. Opportunity values are estimated where possible.
