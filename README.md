@@ -9,10 +9,12 @@ This version of the tool is release 1, and as such you have an opportunity to st
 Logging in is simple - just type in the user name and password you have been provided with. If you have forgotten it, email info@taxonomics.co.uk, or give us a call on +44 (0)330 223 1164. 
 
 Once you have logged in to the system with your username and password, you are presented with the menu screen. It will offer one or more of the following data visualisation tools (depending on the status of your taxonomics programme): 
-+Competition Universe; 
-+Market Taxonomy; 
-+Performance Landscape; 
-+Demand Architecture; +Search Integration
+
+- Competition Universe
+- Market Taxonomy
+- Performance Landscape
+- Demand Architecture
+- Search Integration
 
 Once you have selected a visualisation, you can always see this menu again in a fold out panel revealed by clicking the menu icon (three stacked horizontal lines) found at the top left of each visualisation.
 
