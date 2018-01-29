@@ -109,7 +109,7 @@ The performance landscape shows all the demand goals identified so far, and thei
 
 The demand architecture visualises the things people want in a series of tree structures. Each goal held in the tree is a branch from the most frequently desired of its possible 'parents'. Curved lines show alternative 'parents', where they exist. This is the starting point of a demand architecture process, where you uncover how best to structure the goals you will support around the shape of the demand within your competition space.
 
-At present this is simply a visualisation tool; depending on the programme of works, it may become a way of comparing your current website inofrmation architecture with the idealised structure of the demand in the competiotion space, and give you a clear path to improvement.
+At present this is simply a visualisation tool; depending on the programme of works, it may become a way of comparing your current website information architecture with the idealised structure of the demand in the competition space, and give you a clear path to improvement.
 
 
 # Search Integration
