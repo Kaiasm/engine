@@ -66,7 +66,8 @@ The detailed taxonomy view extends a line of blocks out from the circle. Each bl
 Each demand block shows a number of things about the goal.
  - The number of people who searched for it over 12 months. The larger the block, the greater the number of people who are looking for it, and finding it in your competition universe. 
    + The block label gives the number of visits measured in the data set (a conservative measure... it's likely higher). A value estimate is also given, based on an average value-per-visit you have given us. The value is meant purely to help you to assess the value of better aligning your site to the goal versus other activities within your organisation that need your time and attention.
- - The alignment of the words on your website to the names people give to the goal. If the block is empty, we cannot find any of the ways people expressed the goal on your web site. If it is full to the brim, you have matched every name people give to their goal.
+ - the most frequently used name people give to their goal. This is the label used for the block, and is the most frequently used of the synonyms found for that goal.
+- The alignment of the words on your website to the names people give to the goal. If the block is empty, we cannot find any of the ways people expressed the goal on your web site. If it is full to the brim, you have matched every name people give to their goal.
  - The organic tactical opportunity available to you, based on who else in your competition universe is competing for this goal in natural (i.e. not paid) search results. If we think that, all else being equal, we would expect your domain to rank higher than those currently ranking for it, then the tactical opportunity will approach the size of the the face of the demand block.
  - The year on year trend in the number of people trying to meet this goal in your competition space. Increasing numbers of people wanting the goal results in a bubble which rises higher, and a block which slopes up towards you.
 
@@ -79,19 +80,34 @@ The block shows the level of *strategic demand* for the goal. The bubble shows t
 ## Taxon Triage
 Taxon triage is the name we give to the process of rapidly deciding which of the many demand goals in your competition universe that your organisation wishes to support, and how soon you think you could support it.
 
-
-
-## The Detailed Taxon Report
-
+ - **Not Triaged** - these are demand goals you have not dealt with. This also serves as an 'I don't know' state during a fast triage process.
+ - **Active** - If you already have a page on your site that fully matches the goal either as the main focus of that page, or as a subsection of that page, *and the goal been explicitly linked to that page*, then it is deemed as 'active. This doesn't mean that your work here is done, but further improvement sits within the performance landscape.
+ - **Now** - If you can do something about meeting a demand goal right now (you already have the content or products, you just need to build a page), then it should be Triaged into the 'Now' part of your to-do list.
+ - **Soon** - You know you want to meet it, but it's going to take you a few weeks to pull otgether what you need for the page. That is something you will want to deal with 'soon'. 
+ - **One Day** - You know you want to meet it, but this one's going to be more complex. It might involve bringing on a new supplier, or a new subject specialist to write the content. If it's gogin to takes months, not weeks, then it should be put into the 'One Day' part of the to do list.
+ - **Never** - No, no and no. This is not a thing that you want to support. We don't throw these away, as strategies can change in time... but they are placed into 'neverland', for ignoring most of the time.
 
 # The Performance Landscape
 *Tactical maps of where you are competing now, and where next.*
 
+The performance landscape shows all the demand goals identified so far, and their triage states. If a triage state of 'now' is set, and the demand goal is linked to a URL on your site such that it is deemed 'active', you can being to colour in your performance landscape. The more you fill each actively supported goal with the names people give the goal, the brighter it gets. Pale cells in the landscape are barely relevant, and need work! As time progresses, so will the landscape, growing gradually more complete.
+
+### Things to try
+ - click on a cell to bring up more information about it. If it is not yet linked to a page on your web site, the detailed report shows whether the names people give to their goals are used anywhere on your website. If it is linked to a page, it shows whether the names are used on that page. If we have performance data, it will also give clues as to possible improvements in the flow of people from impression to visit, visit to engagement, engagement to transaction. Opportunity values are estimated where possible.
+ 
+ 
 # The Demand Architecture
 *Helps you to radically align your offering, and especially your category hierarchy and web information architecture, with the structure of the demand in the competitive universe in which you operate.*
 
+The demand architecture visualises the things people want in a series of tree structures. Each goal held in the tree is a branch from the most frequently desired of its possible 'parents'. Curved lines show alternative 'parents', where they exist. This is the starting point of a demand architecture process, where you uncover how best to structure the goals you will support around the shape of the demand within your competition space.
+
+At present this is simply a visualisation tool; depending on the programme of works, it may become a way of comparing your current website inofrmation architecture with the idealised structure of the demand in the competiotion space, and give you a clear path to improvement.
+
+
 # Search Integration
 *Supercharge your on-site search engine with deep taxonomic, ontologic and semantic goodness.*
+
+Depending on the programme of works, you may have a search supercharging area. This may take the form of a on-demand data download customised to your internal search technology, or an API reference.
 
 ___
 [Edit](https://github.com/Taxonomics/engine/edit/master/README.md) | [Markdown](https://gist.github.com/jonschlinkert/5854601) | [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) | [GitHub Pages](https://help.github.com/categories/github-pages-basics/)
