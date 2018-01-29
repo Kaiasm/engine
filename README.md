@@ -58,12 +58,28 @@ Hovering over a planet with a mouse brings up its name in a tool tip. Clicking (
 *Explore what people want, in what number, and the words they use. It also allows you to decide what you want to do about that.*
 
 ## The Circles
-The first view you will see shows the first level of the taxonomic hierarchy so far produced as circles. Thematic groups are shown by colour. Click on a circle to expand it into a detailed taxonomy.
+The first view you will see shows the first level of the taxonomic hierarchy so far produced as circles. Thematic groups are shown by colour. Click on a circle to expand it into a detailed taxonomy. CLick on it again to return to the circes view.
 
 ## A Detailed Taxonomy
-The detailed taxonomy view extends a line of blocks out from the 
+The detailed taxonomy view extends a line of blocks out from the circle. Each block represents the demand for one of the things that people in your competition universe are looking for, and the names they give it. A single 'demand goal', is expressed in a number of ways - it has 'synonyms'. Each synonym refers to exactly the same goal. It does not include sub-types of the goal... for example, the number of people searching for *womens red shoes* does not include those searching for *womens red shoes size 3*, but does include those searching for *red womens shoes*.
 
+Each demand block shows a number of things about the goal.
+ - The number of people who searched for it over 12 months. The larger the block, the greater the number of people who are looking for it, and finding it in your competition universe. 
+   + The block label gives the number of visits measured in the data set (a conservative measure... it's likely higher). A value estimate is also given, based on an average value-per-visit you have given us. The value is meant purely to help you to assess the value of better aligning your site to the goal versus other activities within your organisation that need your time and attention.
+ - The alignment of the words on your website to the names people give to the goal. If the block is empty, we cannot find any of the ways people expressed the goal on your web site. If it is full to the brim, you have matched every name people give to their goal.
+ - The organic tactical opportunity available to you, based on who else in your competition universe is competing for this goal in natural (i.e. not paid) search results. If we think that, all else being equal, we would expect your domain to rank higher than those currently ranking for it, then the tactical opportunity will approach the size of the the face of the demand block.
+ - The year on year trend in the number of people trying to meet this goal in your competition space. Increasing numbers of people wanting the goal results in a bubble which rises higher, and a block which slopes up towards you.
+
+The block shows the level of *strategic demand* for the goal. The bubble shows the level of *tactical opportunity* avaiable to you right now in your competition space.
+
+### Things to try
+ - Click a demand block to bring up a panel with a list of each of the synonymous expressions used to give a name to the goal. Depending on the performance data you have made available to us, there may be a *More details...* link for, well, more details.
+ - Click the grid icon on the left, just below the menu icon, for a tabluated, sortable view of the taxonomy.
+   
 ## Taxon Triage
+Taxon triage is the name we give to the process of rapidly deciding which of the many demand goals in your competition universe that your organisation wishes to support, and how soon you think you could support it.
+
+
 
 ## The Detailed Taxon Report
 
