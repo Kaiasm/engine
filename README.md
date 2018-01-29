@@ -32,7 +32,7 @@ The basic ways of interacting with each of the visualisation tools are similar t
  - **Change view settings** using the icons at the top right corner of the screen.
   + **Cog icon** gets you a view filters panel. This is (at the moment) also where you can download an SVG of the current view.
   + **Alphabetic order icon** (an A-Z beside a downward pointing arrow) if present, re-orders the grid layout alphabetically.
-  + **Quantity order icon** (four horizontal bars, left aligned, of decreasing size, together witha downward pointing arrow) if present, re-orders the grid layout by value, largest first.
+  + **Quantity order icon** (four horizontal bars, left aligned, of decreasing size, together with a downward pointing arrow) if present, re-orders the grid layout by value, largest first.
 
 As you zoom, the navigation panel will appear at the bottom right of the screen. A blue box shows where you have zoomed to within the overall view.
 
