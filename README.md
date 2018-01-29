@@ -30,7 +30,7 @@ The basic ways of interacting with each of the visualisation tools are similar t
  - **Search** by clicking the search input at the bottom right hand corner of the screen.
  - **Change to and from a grid layout** using the grid icon at the upper left corner of the screen, below the menu icon.
  - **Change view settings** using the icons at the top right corner of the screen.
-  + **Cog icon** gets you a view filters panel. This is (at the moment) also where you can download and SVG of the current view.
+  + **Cog icon** gets you a view filters panel. This is (at the moment) also where you can download an SVG of the current view.
   + **Alphabetic order icon** (an A-Z beside a downward pointing arrow) if present, re-orders the grid layout alphabetically.
   + **Quantity order icon** (four horizontal bars, left aligned, of decreasing size, together witha downward pointing arrow) if present, re-orders the grid layout by value, largest first.
 
