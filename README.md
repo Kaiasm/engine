@@ -2,7 +2,7 @@ Welcome to the [Taxonomics Engine manual](https://taxonomics.github.io/engine/).
 
 The Taxonomics Engine gives you the tools you need to radically realign your business (and, specifically, its website) to the needs of your marketplace.
 
-# Building together
+### Building together
 This version of the tool is release 1, and as such you have an opportunity to strongly influence the direction of development. Well done, you early adopter you. As a result, you will find niggles and annoyances. Please [report them as an issue](https://github.com/Taxonomics/engine/issues) and we will get on to them as soon as possible.
 
 # Log In
